@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // 「はい」ボタンがクリックされた時の処理
     confirmButton.addEventListener('click', () => {
         // の紹介ページに直接遷移
-        const nextPageUrl = ‘slyrs.html';
+        const nextPageUrl = 'slyrs.html';
         window.location.href = nextPageUrl;
     });
 });
